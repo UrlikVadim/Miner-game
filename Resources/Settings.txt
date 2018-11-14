@@ -1,0 +1,11 @@
+(int)(on line)ManyGeneration = 3
+(int)(1000%)RuneGeneration = 20
+(string)StringFont = Courier New
+(int)SizeFont = 20
+(double)PlayerSpeed = 3
+(int)BlockSize = 6
+(int)TimeRune = 200
+(int)TimeSmoke = 20
+(int)TimeJump = 20
+(double)PlayerSpeedRune = 0
+(int)(1000%)MineGeneration = 20

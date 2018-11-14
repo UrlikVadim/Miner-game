@@ -1,0 +1,5 @@
+VeryEasy = 0
+Easy = 3
+Normal = 6
+Hard = 11
+VeryHard = 15
